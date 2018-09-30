@@ -1,0 +1,9 @@
+1) Meaning of portability : It's one whose source code can without modification, be compiled to a successful program on a variety of different computer systems.
+
+2) Source code - contains code as written in the language he/she is using. Object code file - contains machine language code, need not be complete. Exe - contains complete code, an exectuable program.
+
+3) 7 major steps- define objectives, design, code, compile, run, test/debug, maintain/modify
+
+4) compiler- translates source code to machine code
+
+5) linker- combines translated source code with lib and startup to produce exe
