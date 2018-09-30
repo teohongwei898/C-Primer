@@ -1,0 +1,28 @@
+1a) int
+1b) float
+1c) char
+1d) int
+
+2) large numbers
+
+3) int32_t
+
+4) char, int, double, unsigned int, double
+
+5) declare #, int main(void), {,  g,h , }, missing
+
+6-7) NIL
+
+8) %d, %ld
+  %f, %c
+  
+9) -
+
+10) #
+int cows, legs;
+\n
+
+11) newline
+backslash
+double quotation
+tab char
