@@ -1,3 +1,4 @@
+/* Programming Exercise 4-6 */
 int main(void)
 {
 	char first_name[20];
