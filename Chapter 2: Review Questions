@@ -1,0 +1,46 @@
+1) what are the basic modules - funtions
+
+2) syntax error - violation on how sentences are put tgt. e.g. 
+printf"Wheres the parentheses?";
+
+3) semantic error - one of meaning
+e.g.
+abc_123 = 3 + n;
+
+4) correct this:
+
+include studio.h  -- PUT #
+int main {void}  -- ()
+(                -- {
+int s
+
+s:=56         -- no :
+print(There are s weeks in a year.); 
+return 0;
+
+ANS:
+
+#include studio.h
+int main (void)
+{
+int s
+
+s =52;
+printf("There are %d weeks in a year.\n", s);
+return 0;
+}
+
+5a) 1 straight line.
+5b) \n gives spacing
+5c) /n not equals to \n
+5d) 2 + 2 =4
+
+6) int char are c keywords
+
+7) printf("There were %d words and %d lines.\n", x , y);
+
+8) both 5
+
+9) aft l7, x=10,y=5
+  aft l8 x=10,y=15
+  aft l9, x=150, y=15
